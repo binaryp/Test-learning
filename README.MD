@@ -1,7 +1,5 @@
 # git-docs
 
-个人 Git 文档
-
 ```text
 .
 ├── 规范管理
