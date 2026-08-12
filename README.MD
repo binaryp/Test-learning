@@ -2,7 +2,7 @@
 
 个人 Git 文档
 
-:contentReference[oaicite:1]{index=1}
+[Git 官方网站](https://git-scm.com/)
 
 ```text
 .
