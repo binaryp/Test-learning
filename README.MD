@@ -4,8 +4,8 @@
 
 ## 相关链接
 
-- [Git 官方网站](https://git-scm.com/)
-- [约定式提交](https://www.conventionalcommits.org/)
+[Git 官方网站](https://git-scm.com/)
+[约定式提交](https://www.conventionalcommits.org/)
 
 ## 目录结构
 
