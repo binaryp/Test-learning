@@ -2,7 +2,7 @@
 
 个人 Git 文档
 
-[Git 官方网站](https://git-scm.com/)
+Git 官方网站：<https://git-scm.com/>
 
 ```text
 .
