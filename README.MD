@@ -2,7 +2,11 @@
 
 个人 Git 文档
 
-Git 官方网站：<https://git-scm.com/>
+## Git 官方网站
+
+https://git-scm.com/
+
+## 目录结构
 
 ```text
 .
@@ -14,5 +18,4 @@ Git 官方网站：<https://git-scm.com/>
 └── 配置管理
     ├── 用户信息配置管理.md
     └── 默认分支配置管理.md
-
 ```
