@@ -2,9 +2,9 @@
 
 个人 Git 文档
 
-## Git 官方网站
+## 相关链接
 
-https://git-scm.com/
+* Git：https://git-scm.com/
 
 ## 目录结构
 
