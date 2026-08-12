@@ -2,6 +2,8 @@
 
 个人 Git 文档
 
+:contentReference[oaicite:1]{index=1}
+
 ```text
 .
 ├── 规范管理
