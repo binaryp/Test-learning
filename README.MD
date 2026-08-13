@@ -2,12 +2,12 @@
 
 个人 sing-box 文档
 
-## 参考链接
+# 参考链接
 
 - [GitHub 仓库](https://github.com/SagerNet/sing-box)
 - [官方文档](https://sing-box.sagernet.org/)
 
-## 目录结构
+# 目录结构
 
 ```text
 .
@@ -25,7 +25,7 @@
     └── Windows 第三方客户端推荐.md
 ```
 
-## 配置流程
+# 配置流程
 
 服务端：
 
