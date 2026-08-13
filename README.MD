@@ -1,26 +1,42 @@
-# git-docs
+# sing-box-docs
 
-个人 Git 文档
+个人 sing-box 文档
 
-## 相关资源网站
+## 参考链接
 
-[Git 官方网站](https://git-scm.com/)
-
-[约定式提交](https://www.conventionalcommits.org/)
+- [GitHub 仓库](https://github.com/SagerNet/sing-box)
+- [官方文档](https://sing-box.sagernet.org/)
 
 ## 目录结构
 
 ```text
-规范管理
-└── 约定式提交.md
-
-远程仓库
-├── SSH 协议访问远程仓库.md
-└── 管理远程仓库.md
-
-配置管理
-├── 用户信息配置管理.md
-└── 默认分支配置管理.md
+.
+├── VLESS 协议配置
+│   ├── 客户端配置
+│   │   ├── debian 客户端配置.md
+│   │   └── 链接导入客户端配置.md
+│   └── 服务端配置
+│       └── debian 服务端配置.md
+├── 安装和管理
+│   └── debian 安装和管理.md
+└── 第三方客户端推荐
+    ├── Android 第三方客户端推荐.md
+    ├── iOS 第三方客户端推荐.md
+    └── Windows 第三方客户端推荐.md
 ```
+
+## 配置流程
+
+服务端：
+
+1. 从 `安装和管理` 目录选择对应文档安装 `sing-box`
+2. 从 `VLESS 协议配置/服务端配置` 目录选择对应文档配置 `sing-box` 服务端
+
+
+客户端：
+
+1. 从 `VLESS 协议配置/客户端配置` 目录选择对应文档配置客户端
+   - `debian 客户端配置` 需要先从 `安装和管理` 目录选择对应文档安装 `sing-box`
+   - `链接导入客户端配置` 需要从 `第三方客户端推荐` 目录选择对应客户端，安装后导入链接
 
 
